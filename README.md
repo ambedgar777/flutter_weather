@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<h1 style="font-size: 36px;">1.Flutter Weather App</h1>
+<h1 style="font-size: 36px;">1.Flutter Weather App Using BLoc</h1>
 Explore the weather with ease using the Flutter Weather App! Developed with Flutter Bloc and API integration, this app provides users with comprehensive weather information for a seamless experience. Here are the key features:
 
 <h1 style="font-size: 36px;">2.Features:</h1>
@@ -28,4 +28,7 @@ Clone the repository.
 Obtain an API key and replace it in the designated configuration file.
 Run the app on your preferred emulator or physical device.
 
-Screenshots:
+Screenshots:'
+
+![weatherapp](https://github.com/ambedgar777/quiz_flutter/assets/49684285/24bfa4b9-5964-40da-a6da-968787f8f816)
+
